@@ -1,0 +1,4 @@
+2023-11-07 00:29:27.435 [main] INFO  org.example.Main - Start of Execution
+2023-11-07 00:29:42.376 [main] INFO  org.example.Main - START OPERATION: Add
+2023-11-07 00:29:42.381 [main] INFO  org.example.Main - END OPERATION: Add
+2023-11-07 00:29:50.269 [main] INFO  org.example.Main - End of Execution
